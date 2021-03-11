@@ -5,6 +5,7 @@
 ## Table of Contents
 * [About the Project](#about-the-project)
     * [Finished Project Link](#finished-project)
+    * [Tools Used](#tools-used)
     * [Project Screenshot](#project-screenshot)
 * [Installation Instructions](#installation-instructions)
 * [Usage](#usage)
@@ -19,11 +20,13 @@ A tool designed to assist and motivate people currently in, or seeking, sobriety
     
     
 ### Finished Project
-Project Link: [Ascent Sobriety Mobile]()
-    
+Project is still in construction.  Server is hosted on AWS and mobile app will be available for iOS and Android. 
+
+### Tools Used
+React Native, NestJS, MySQL, TypeORM.
     
 ### Project Screenshot
-    
+Frontend is still in development. Standby for updates!
     
     
 ## Installation Instructions
